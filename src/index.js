@@ -9,6 +9,9 @@ function App() {
     <div className="App">
       <MyComponent name="서동민" />
       <MyComponent />
+      <button type="button" onClick={() => {}}>
+        버----튼
+      </button>
     </div>
   );
 }
